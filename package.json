@@ -1,0 +1,30 @@
+{
+  "name": "spazpanel",
+  "version": "1.0.0",
+  "description": "free Nodejs WebPanel Adminisration",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izetmolla/spazpanel.git"
+  },
+  "keywords": [
+    "webPanel",
+    "hosting",
+    "Panel"
+  ],
+  "author": "Izet Molla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izetmolla/spazpanel/issues"
+  },
+  "homepage": "https://github.com/izetmolla/spazpanel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
